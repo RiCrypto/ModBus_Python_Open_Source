@@ -16,31 +16,6 @@ A Python library for Modbus communication, developed by Prof. Dr. Ricardo August
 - **Easy-to-Use API**: Simple and intuitive API for interacting with Modbus devices.
 - **Cross-Platform Compatibility**: Works on Windows, Linux, and macOS.
 
-mod_py4u/
-|-- docs/
-|   |-- source/
-|   |   |-- index.rst
-|   |-- conf.py
-|-- mod_py4u/
-|   |-- __init__.py
-|   |-- client/
-|   |   |-- __init__.py
-|   |   |-- base4u.py
-|   |   |-- tcp4u.py
-|   |   |-- rtu4u.py
-|   |-- server/
-|   |   |-- __init__.py
-|   |   |-- base4u.py
-|   |   |-- tcp4u.py
-|   |   |-- rtu4u.py
-|-- tests/
-|   |-- __init__.py
-|   |-- test_client4u.py
-|   |-- test_server4u.py
-|-- setup.py
-|-- README.md
-|-- LICENSE
-
 
 ## Installation
 
